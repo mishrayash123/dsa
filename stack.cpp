@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Lifo
+
 class Stack
 {
  public :
